@@ -44,65 +44,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[NVIDIA GeForce NOW](https://nvidia.com)**  
-
-  Leading cloud gaming service streaming owned PC libraries from Steam, Epic Games, Xbox, and Ubisoft on RTX-class cloud servers up to 4K/120fps.
-
-
-
-- **[Xbox Cloud Gaming (Microsoft xCloud)](https://xbox.com)**  
-
-  Cloud game streaming service included with Xbox Game Pass enabling instant browser, smart TV, console, and mobile access to hundreds of Xbox titles.
-
-
-
-- **[PlayStation Cloud Gaming (PS Plus Premium)](https://playstation.com)**  
-
-  Sony's cloud streaming platform delivering PlayStation 5, PS4, and classic PlayStation titles directly to PS5 consoles, PlayStation Portal, and Windows PCs.
-
-
-
-- **[Boosteroid](https://boosteroid.com)**  
-
-  Independent European cloud gaming platform offering browser- and app-based 4K streaming for PC games across Windows, macOS, Linux, Android, and smart TVs.
-
-
-
-- **[Amazon Luna](https://amazon.com)**  
-
-  Cloud gaming platform built on AWS infrastructure featuring Prime Gaming integration, Ubisoft+ channels, and low-latency Wi-Fi Luna Controller support.
-
-
-
-- **[Shadow PC](https://shadow.tech)**  
-
-  Full Windows 11 cloud gaming PC service providing dedicated NVIDIA GPU hardware, mod support, and unrestricted access to any PC game launcher.
-
-
-
-- **[Blacknut](https://blacknut.com)**  
-
-  Family-friendly cloud gaming subscription platform hosting a curated catalog of over 500 indie, casual, and console-style titles across smart TVs and browsers.
-
-
-
-- **[Utomik](https://utomik.com)**  
-
-  Cloud and hybrid instant-play PC gaming subscription platform streaming indie and classic titles across PC, Android, and smart TVs.
-
-
-
-- **[Antstream Arcade](https://antstream.com)**  
-
-  Cloud retro gaming platform streaming over 1,300 licensed arcade, console, and home-computer classics with global leaderboards and mini-game challenges.
-
-
-
-- **[AirGPU](https://airgpu.com)**  
-
-  Pay-as-you-go cloud gaming virtual machine provider pre-configured with Parsec and Moonlight for custom high-FPS PC game streaming.
+| Platform | Valuation / Company Size | Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[NVIDIA GeForce NOW](https://nvidia.com)** | ~$3.5T Market Cap (NVIDIA) | $9.99/mo (Priority/Performance) | Free forever plan: 1-hour session limit, basic server rig, ad-supported queue | Leading cloud gaming service streaming owned PC libraries from Steam, Epic Games, Xbox, and Ubisoft on RTX-class cloud servers up to 4K/120fps. |
+| **[Xbox Cloud Gaming (Microsoft xCloud)](https://xbox.com)** | ~$3.1T Market Cap (Microsoft) | $22.99/mo (Game Pass Ultimate) | Free tier: Free play on Fortnite only, ad-supported with 30–60 min per session limit | Cloud game streaming service included with Xbox Game Pass enabling instant browser, smart TV, console, and mobile access to hundreds of Xbox titles. |
+| **[Amazon Luna](https://amazon.com)** | ~$2.2T Market Cap (Amazon) | $9.99/mo (Luna+) | 7-day free trial (Luna+ full catalog access); or free rotating games included with Amazon Prime | Cloud gaming platform built on AWS infrastructure featuring Prime Gaming integration, Ubisoft+ channels, and low-latency Wi-Fi Luna Controller support. |
+| **[PlayStation Cloud Gaming](https://playstation.com)** | ~$155B Market Cap (Sony Group) | $19.99/mo or $159.99/yr (PS Plus Premium) | 7-day free trial (available selectively to new PS Plus subscribers on PSN) | Sony's cloud streaming platform delivering PlayStation 5, PS4, and classic PlayStation titles directly to PS5 consoles, PlayStation Portal, and Windows PCs. |
+| **[Blacknut](https://blacknut.com)** | $215M Total Funding (Digital Alpha) | $15.99/mo | 14-day promotional free trial (via select partners) / 15–30 min free demo previews without account | Family-friendly cloud gaming subscription platform hosting a curated catalog of over 500 indie, casual, and console-style titles across smart TVs and browsers. |
+| **[Boosteroid](https://boosteroid.com)** | ~$125M Annual Revenue | €9.99/mo (or €7.49/mo billed annually) | No free tier or trial; requires paid month-to-month subscription to test low-latency streaming | Independent European cloud gaming platform offering browser- and app-based 4K streaming for PC games across Windows, macOS, Linux, Android, and smart TVs. |
+| **[Shadow PC](https://shadow.tech)** | ~$35M Annual Revenue (Synfonium / Octave Klaba) | $37.99/mo (Lite / Neo Tier) | No free tier or trial; full dedicated Windows 11 cloud PC requires 1-month paid commitment | Full Windows 11 cloud gaming PC service providing dedicated NVIDIA GPU hardware, mod support, and unrestricted access to any PC game launcher. |
+| **[Antstream Arcade](https://antstream.com)** | ~$30M Total Funding / ~$10M Rev | $4.99/mo or $39.99/yr | Free account allows browsing 1,300+ retro titles; free trials (e.g. 7-day) available selectively on mobile/iOS app stores | Cloud retro gaming platform streaming over 1,300 licensed arcade, console, and home-computer classics with global leaderboards and mini-game challenges. |
+| **[Utomik](https://utomik.com)** | ~$3.7M Historical Revenue ($3.5M Funding) | $8.99/mo (Cloud Plan) | 14-day free trial with full access to PC and cloud library across smart TVs and Android | Cloud and hybrid instant-play PC gaming subscription platform streaming indie and classic titles across PC, Android, and smart TVs. |
+| **[AirGPU](https://airgpu.com)** | ~$100K ARR (Bootstrapped) | $0.65/hr + $7.00/mo SSD storage base | No free tier, free trial, or sign-up credits; strictly pay-as-you-go hourly plus storage billing | Pay-as-you-go cloud gaming virtual machine provider pre-configured with Parsec and Moonlight for custom high-FPS PC game streaming. |
 
 
 
