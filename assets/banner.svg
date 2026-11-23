@@ -125,32 +125,32 @@
     <circle cx="26" cy="37" r="14" fill="#38bdf8" fill-opacity="0.15" />
     <text x="26" y="42" text-anchor="middle" font-size="16">🎮</text>
     <text x="50" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#f8fafc">Cloud Clients</text>
-    <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">GeForce NOW &bull; xCloud</text>
+    <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">GeForce NOW &#8226; xCloud</text>
 
     <!-- Card 2 -->
     <rect x="240" y="0" width="210" height="74" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
     <circle cx="266" cy="37" r="14" fill="#818cf8" fill-opacity="0.15" />
     <text x="266" y="42" text-anchor="middle" font-size="16">⚡</text>
     <text x="290" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#f8fafc">Self-Hosted</text>
-    <text x="290" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Sunshine &bull; Moonlight</text>
+    <text x="290" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Sunshine &#8226; Moonlight</text>
 
     <!-- Card 3 -->
     <rect x="480" y="0" width="210" height="74" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
     <circle cx="506" cy="37" r="14" fill="#c084fc" fill-opacity="0.15" />
     <text x="506" y="42" text-anchor="middle" font-size="16">📺</text>
     <text x="530" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#f8fafc">Remote Portals</text>
-    <text x="530" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Chiaki-ng &bull; Greenlight</text>
+    <text x="530" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Chiaki-ng &#8226; Greenlight</text>
 
     <!-- Card 4 -->
     <rect x="720" y="0" width="220" height="74" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
     <circle cx="746" cy="37" r="14" fill="#34d399" fill-opacity="0.15" />
     <text x="746" y="42" text-anchor="middle" font-size="16">🌐</text>
     <text x="770" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#f8fafc">WebRTC &amp; WASM</text>
-    <text x="770" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">CloudRetro &bull; EmulatorJS</text>
+    <text x="770" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">CloudRetro &#8226; EmulatorJS</text>
   </g>
 
   <!-- Bottom Spec Bar -->
   <text x="600" y="375" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#64748b" letter-spacing="1.5">
-    4K 120FPS HDR &bull; LOW-LATENCY AV1 / HEVC &bull; STEAM DECK &bull; LINUX &bull; BROWSER &bull; DUALSENSE &amp; XBOX
+    4K 120FPS HDR &#8226; LOW-LATENCY AV1 / HEVC &#8226; STEAM DECK &#8226; LINUX &#8226; BROWSER &#8226; DUALSENSE &amp; XBOX
   </text>
 </svg>
