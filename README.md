@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?ttyle=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Gaming-Clients-Console-Portals/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Gaming-Clients-Console-Portals?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Gaming-Clients-Console-Portals/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Gaming-Clients-Console-Portals?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Gaming-Clients-Console-Portals/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Gaming-Clients-Console-Portals?style=flat-square&color=blue" alt="Issues" /></a>
