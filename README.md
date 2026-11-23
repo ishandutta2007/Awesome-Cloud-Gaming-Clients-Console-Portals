@@ -186,101 +186,198 @@ If this project saved you time, enhanced your streaming setup, or aided your dev
 </p>
 # Awesome-Cloud-Gaming-Clients-Console-Portals
 
-# Awesome Cloud Gaming Clients & Console Portals 🌟
-
-> **Top Cloud Gaming Clients Console Portals (Opensource)**  
-> A curated list of the best cloud gaming services, console streaming clients, and self-hosted game streaming portals — with a strong focus on **open-source** and community-driven alternatives.  
-> 🌟 **Star if you like it!** 🌟
-
-Cloud gaming lets you stream high-end games from remote servers or your own hardware to almost any device. Major platforms such as GeForce NOW, Xbox Cloud Gaming, and Amazon Luna dominate the commercial space, while a vibrant open-source ecosystem provides better clients, self-hosted servers, and console-native apps that remove telemetry, add features, or let you run everything on your own infrastructure.
-
-This list prioritizes **open-source GitHub projects** while keeping SaaS/hosted platforms clearly separated.
-
-## Table of Contents
-
-- [SaaS / Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS / Hosted Platforms
-
-These are popular commercial cloud gaming services and portals (closed-source / hosted):
-
-- **[GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)** — NVIDIA’s cloud gaming service that streams your PC games (Steam, Epic, etc.) from powerful RTX servers.
-- **[Xbox Cloud Gaming](https://www.xbox.com/en-US/cloud-gaming)** (xCloud) — Microsoft’s cloud service, primarily for Game Pass titles, playable in browsers and apps.
-- **[PlayStation Cloud Gaming / PS Plus Premium streaming](https://www.playstation.com/)** — Sony’s cloud streaming for select PlayStation titles (via PS Plus).
-- **[Boosteroid](https://boosteroid.com/)** — Cloud gaming platform with a large game library and flexible plans.
-- **[Amazon Luna](https://www.amazon.com/luna)** — Amazon’s cloud gaming service with channels and controller support.
-- **[Shadow PC](https://shadow.tech/)** — High-performance virtual Windows PC in the cloud for full desktop gaming and productivity.
-- **[Blacknut](https://www.blacknut.com/)** — Cloud gaming subscription focused on family-friendly and casual titles.
-- **[Utomik](https://utomik.com/)** — Cloud gaming service with a large catalog of games.
-- **[Antstream Arcade](https://antstream.com/)** — Cloud-based retro arcade platform.
-- **[AirGPU](https://airgpu.com/)** and similar GPU-as-a-service / cloud PC providers aimed at gaming and creative workloads.
-
-## Open-Source GitHub Projects
-
-Open-source clients, self-hosted servers, and console portals you can run yourself or use as improved front-ends for commercial services. These range from privacy-focused official-service clients to fully self-hosted streaming stacks.
-
-### Improved Clients for Commercial Cloud Services
-
-- **[OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW)**  
-  Popular open-source desktop client for NVIDIA GeForce NOW. Cross-platform (Windows, macOS, Linux), removes telemetry, adds power-user features (anti-AFK, stats overlays, better controls), and is actively developed by the community. MIT license. Not affiliated with NVIDIA.
-
-- **[RafaelNGP/psbox-cloud-gaming](https://github.com/RafaelNGP/psbox-cloud-gaming)** (formerly xbox-cloud-gaming-ps5)  
-  Native Xbox Cloud Gaming (xCloud) client for PlayStation 5 homebrew, with ports/support for PS4, Windows, Linux (including Steam Deck), and Android. Supports DualSense, library browsing, remote play of your own Xbox, upscaling (FSR/Anime4K), and more. GPL-3.0. Unofficial and not affiliated with Microsoft or Sony.
-
-- **[shyim/openxcloud](https://github.com/shyim/openxcloud)** and related projects (e.g. Greenlight)  
-  Native or improved Xbox Cloud Gaming clients for macOS, Linux, and other platforms, often with WebRTC streaming and upscaling options.
-
-### Self-Hosted Game Streaming Servers & Clients
-
-- **[LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)**  
-  Leading self-hosted game stream host for the Moonlight protocol. Low-latency streaming with hardware encoding support (NVIDIA, AMD, Intel), web UI for pairing and configuration, and broad client compatibility. Extremely popular (~40k+ stars). The modern open-source successor to NVIDIA GameStream host functionality.
-
-- **Moonlight clients** (official and community ports)  
-  Open-source clients that connect to Sunshine or legacy GameStream hosts. Available for almost every platform (desktop, mobile, TV, handhelds, consoles via homebrew).
-
-- **[PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad)**  
-  Free and open-source alternative to GeForce NOW / Blacknut-style platforms. Deploy your own gaming instance on cloud providers (AWS, Azure, GCP, Scaleway, etc.) or your own hardware, install Steam/Epic/etc., and stream via Sunshine + Moonlight. Pay-as-you-go model instead of a fixed subscription.
-
-### Console Remote Play & Specialized Clients
-
-- **[chiaki-ng/chiaki-ng](https://github.com/streetpea/chiaki-ng)** (and original Chiaki)  
-  Next-generation open-source PlayStation Remote Play client for PS4 and PS5. Supports Linux, Windows, macOS, Android, Steam Deck, and more. Actively maintained continuation of the original Chiaki project. AGPL-3.0.
-
-- Additional homebrew and community clients for Xbox, PlayStation, Nintendo Switch, and other platforms that bring cloud or remote-play functionality to consoles and handhelds.
-
-### Other Notable Open-Source Tools
-
-- **Wolf** and related multi-user streaming servers that work with Moonlight.
-- Web-based or experimental open streaming services (e.g. Stratus and similar projects) that aim for browser-native low-latency game streaming.
-- Various upscaling, input, and overlay tools that enhance open clients.
-
-> **Tip**: For the best self-hosted experience, pair **Sunshine** (host) with any **Moonlight** client. For better official-service clients, start with **OpenNOW** (GeForce NOW) or **psbox-cloud-gaming** (Xbox Cloud on console). Always respect the terms of service of commercial platforms when using third-party clients.
-
-## How to Contribute
-
-Contributions are welcome and encouraged!
-
-1. Fork the repository
-2. Add a new tool under the appropriate section (keep SaaS and Open-Source strictly separate)
-3. Use the same format: **Name** — short description + key features + license/link
-4. Prefer actively maintained projects with clear documentation and transparent development
-5. Submit a Pull Request
-
-Please keep descriptions neutral and factual. Open-source projects are the primary focus of this list. Note any platform limitations or homebrew requirements clearly.
-
-## Disclaimer
-
-This is a community-curated list for informational purposes only.  
-Inclusion does not constitute an endorsement.  
-
-Third-party clients for commercial services (GeForce NOW, Xbox Cloud Gaming, etc.) are unofficial and not affiliated with or endorsed by NVIDIA, Microsoft, Sony, or other providers. Using them may violate the terms of service of those platforms — use at your own risk. Self-hosted solutions require your own hardware or cloud resources and appropriate game licenses.
-
-Always review licenses, security practices, and privacy implications. Some projects may collect no data by design, while others rely on official APIs that still require accounts and subscriptions.
-
----
-
-**Made with ❤️ for the open-source gaming community**  
+# Awesome Cloud Gaming Clients & Console Portals 🌟
+
+
+
+> **Top Cloud Gaming Clients Console Portals (Opensource)**  
+
+> A curated list of the best cloud gaming services, console streaming clients, and self-hosted game streaming portals — with a strong focus on **open-source** and community-driven alternatives.  
+
+> 🌟 **Star if you like it!** 🌟
+
+
+
+Cloud gaming lets you stream high-end games from remote servers or your own hardware to almost any device. Major platforms such as GeForce NOW, Xbox Cloud Gaming, and Amazon Luna dominate the commercial space, while a vibrant open-source ecosystem provides better clients, self-hosted servers, and console-native apps that remove telemetry, add features, or let you run everything on your own infrastructure.
+
+
+
+This list prioritizes **open-source GitHub projects** while keeping SaaS/hosted platforms clearly separated.
+
+
+
+## Table of Contents
+
+
+
+- [SaaS / Hosted Platforms](#saas--hosted-platforms)
+
+- [Open-Source GitHub Projects](#open-source-github-projects)
+
+- [How to Contribute](#how-to-contribute)
+
+- [Disclaimer](#disclaimer)
+
+
+
+## SaaS / Hosted Platforms
+
+
+
+These are popular commercial cloud gaming services and portals (closed-source / hosted):
+
+
+
+- **[GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)** — NVIDIA’s cloud gaming service that streams your PC games (Steam, Epic, etc.) from powerful RTX servers.
+
+- **[Xbox Cloud Gaming](https://www.xbox.com/en-US/cloud-gaming)** (xCloud) — Microsoft’s cloud service, primarily for Game Pass titles, playable in browsers and apps.
+
+- **[PlayStation Cloud Gaming / PS Plus Premium streaming](https://www.playstation.com/)** — Sony’s cloud streaming for select PlayStation titles (via PS Plus).
+
+- **[Boosteroid](https://boosteroid.com/)** — Cloud gaming platform with a large game library and flexible plans.
+
+- **[Amazon Luna](https://www.amazon.com/luna)** — Amazon’s cloud gaming service with channels and controller support.
+
+- **[Shadow PC](https://shadow.tech/)** — High-performance virtual Windows PC in the cloud for full desktop gaming and productivity.
+
+- **[Blacknut](https://www.blacknut.com/)** — Cloud gaming subscription focused on family-friendly and casual titles.
+
+- **[Utomik](https://utomik.com/)** — Cloud gaming service with a large catalog of games.
+
+- **[Antstream Arcade](https://antstream.com/)** — Cloud-based retro arcade platform.
+
+- **[AirGPU](https://airgpu.com/)** and similar GPU-as-a-service / cloud PC providers aimed at gaming and creative workloads.
+
+
+
+## Open-Source GitHub Projects
+
+
+
+Open-source clients, self-hosted servers, and console portals you can run yourself or use as improved front-ends for commercial services. These range from privacy-focused official-service clients to fully self-hosted streaming stacks.
+
+
+
+### Improved Clients for Commercial Cloud Services
+
+
+
+- **[OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW)**  
+
+  Popular open-source desktop client for NVIDIA GeForce NOW. Cross-platform (Windows, macOS, Linux), removes telemetry, adds power-user features (anti-AFK, stats overlays, better controls), and is actively developed by the community. MIT license. Not affiliated with NVIDIA.
+
+
+
+- **[RafaelNGP/psbox-cloud-gaming](https://github.com/RafaelNGP/psbox-cloud-gaming)** (formerly xbox-cloud-gaming-ps5)  
+
+  Native Xbox Cloud Gaming (xCloud) client for PlayStation 5 homebrew, with ports/support for PS4, Windows, Linux (including Steam Deck), and Android. Supports DualSense, library browsing, remote play of your own Xbox, upscaling (FSR/Anime4K), and more. GPL-3.0. Unofficial and not affiliated with Microsoft or Sony.
+
+
+
+- **[shyim/openxcloud](https://github.com/shyim/openxcloud)** and related projects (e.g. Greenlight)  
+
+  Native or improved Xbox Cloud Gaming clients for macOS, Linux, and other platforms, often with WebRTC streaming and upscaling options.
+
+
+
+### Self-Hosted Game Streaming Servers & Clients
+
+
+
+- **[LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)**  
+
+  Leading self-hosted game stream host for the Moonlight protocol. Low-latency streaming with hardware encoding support (NVIDIA, AMD, Intel), web UI for pairing and configuration, and broad client compatibility. Extremely popular (~40k+ stars). The modern open-source successor to NVIDIA GameStream host functionality.
+
+
+
+- **Moonlight clients** (official and community ports)  
+
+  Open-source clients that connect to Sunshine or legacy GameStream hosts. Available for almost every platform (desktop, mobile, TV, handhelds, consoles via homebrew).
+
+
+
+- **[PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad)**  
+
+  Free and open-source alternative to GeForce NOW / Blacknut-style platforms. Deploy your own gaming instance on cloud providers (AWS, Azure, GCP, Scaleway, etc.) or your own hardware, install Steam/Epic/etc., and stream via Sunshine + Moonlight. Pay-as-you-go model instead of a fixed subscription.
+
+
+
+### Console Remote Play & Specialized Clients
+
+
+
+- **[chiaki-ng/chiaki-ng](https://github.com/streetpea/chiaki-ng)** (and original Chiaki)  
+
+  Next-generation open-source PlayStation Remote Play client for PS4 and PS5. Supports Linux, Windows, macOS, Android, Steam Deck, and more. Actively maintained continuation of the original Chiaki project. AGPL-3.0.
+
+
+
+- Additional homebrew and community clients for Xbox, PlayStation, Nintendo Switch, and other platforms that bring cloud or remote-play functionality to consoles and handhelds.
+
+
+
+### Other Notable Open-Source Tools
+
+
+
+- **Wolf** and related multi-user streaming servers that work with Moonlight.
+
+- Web-based or experimental open streaming services (e.g. Stratus and similar projects) that aim for browser-native low-latency game streaming.
+
+- Various upscaling, input, and overlay tools that enhance open clients.
+
+
+
+> **Tip**: For the best self-hosted experience, pair **Sunshine** (host) with any **Moonlight** client. For better official-service clients, start with **OpenNOW** (GeForce NOW) or **psbox-cloud-gaming** (Xbox Cloud on console). Always respect the terms of service of commercial platforms when using third-party clients.
+
+
+
+## How to Contribute
+
+
+
+Contributions are welcome and encouraged!
+
+
+
+1. Fork the repository
+
+2. Add a new tool under the appropriate section (keep SaaS and Open-Source strictly separate)
+
+3. Use the same format: **Name** — short description + key features + license/link
+
+4. Prefer actively maintained projects with clear documentation and transparent development
+
+5. Submit a Pull Request
+
+
+
+Please keep descriptions neutral and factual. Open-source projects are the primary focus of this list. Note any platform limitations or homebrew requirements clearly.
+
+
+
+## Disclaimer
+
+
+
+This is a community-curated list for informational purposes only.  
+
+Inclusion does not constitute an endorsement.  
+
+
+
+Third-party clients for commercial services (GeForce NOW, Xbox Cloud Gaming, etc.) are unofficial and not affiliated with or endorsed by NVIDIA, Microsoft, Sony, or other providers. Using them may violate the terms of service of those platforms — use at your own risk. Self-hosted solutions require your own hardware or cloud resources and appropriate game licenses.
+
+
+
+Always review licenses, security practices, and privacy implications. Some projects may collect no data by design, while others rely on official APIs that still require accounts and subscriptions.
+
+
+
+---
+
+
+
+**Made with ❤️ for the open-source gaming community**  
+
 If this list helped you, please ⭐ the repo!
