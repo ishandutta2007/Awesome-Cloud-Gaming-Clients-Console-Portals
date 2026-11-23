@@ -62,7 +62,7 @@ The global cloud gaming sector is estimated at **$4.8B to $6.2B in 2026**, on tr
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted descending by GitHub Stars_Count:
+Sorted descending by GitHub_Stars_Count:
 
 1. **[Sunshine](https://github.com/LizardByte/Sunshine)** [![Stars](https://img.shields.io/github/stars/LizardByte/Sunshine?style=social&color=white)](https://github.com/LizardByte/Sunshine/stargazers) 🌟  
    Flagship self-hosted open-source game streaming host and modern replacement for NVIDIA GameStream. Supports AMD, Intel, and NVIDIA hardware encoding with ultra-low latency, Web UI configuration, and cross-platform capture.
